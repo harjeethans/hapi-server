@@ -1,0 +1,28 @@
+{
+  "name": "hapi-server",
+  "version": "1.0.0",
+  "description": "Sample backend for hapi application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harjeethans/hapi-server.git"
+  },
+  "keywords": [
+    "hapi",
+    "node",
+    "backend"
+  ],
+  "author": "Harjeet Singh <harjeet.singh@fireeye.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harjeethans/hapi-server/issues"
+  },
+  "homepage": "https://github.com/harjeethans/hapi-server#readme",
+  "dependencies": {
+    "hapi": "^16.5.2",
+    "inert": "^4.2.1"
+  }
+}
